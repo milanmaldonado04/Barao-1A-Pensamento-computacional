@@ -1,2 +1,2 @@
-# Barao-1A-Pensamento-computacional
-Projeto de um site HTML e CSS
+desenvolvimento de site HTML e CSS
+Colégio Estadual Barão Do Rio Branco Disciplina de Pensamento Computacional
