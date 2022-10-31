@@ -1,6 +1,9 @@
-body {
-   text-align: center;
-   background:  rgb(102, 170, 179);
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body {   
+font-family: 'Lobster', cursive;
+text-align: center;
+background:  rgb(102, 170, 179);
 }
 .praia {
     width: 90%;
